@@ -1,0 +1,4 @@
+Basically Process Scheduling is of different types.
+Some of them are FIFO,SJF,SJN,Round Robin,Priority Scheduling,etc..
+In our question we use a combined algorithm of SJF and Priority Scheduling.
+For better clarity, refer the explation given in the Assignment report attached separately.
